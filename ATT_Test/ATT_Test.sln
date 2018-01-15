@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATT_Test", "ATT_Test\ATT_Test.csproj", "{584CCCA0-0499-4B35-8D80-B606AE5EFAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATT_Test.Tests", "ATT_Test.Tests\ATT_Test.Tests.csproj", "{12F7FFF5-D01E-45DE-8FCE-9D75FFB17BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584CCCA0-0499-4B35-8D80-B606AE5EFAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584CCCA0-0499-4B35-8D80-B606AE5EFAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584CCCA0-0499-4B35-8D80-B606AE5EFAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584CCCA0-0499-4B35-8D80-B606AE5EFAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F7FFF5-D01E-45DE-8FCE-9D75FFB17BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F7FFF5-D01E-45DE-8FCE-9D75FFB17BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F7FFF5-D01E-45DE-8FCE-9D75FFB17BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F7FFF5-D01E-45DE-8FCE-9D75FFB17BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
